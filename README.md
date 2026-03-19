@@ -1,4 +1,4 @@
-# Adaptmind Backend - Event-Driven Learning Platform
+#Backend - Event-Driven Learning Platform
 
 A robust, event-driven backend system for processing mission completions, updating learning metrics, and triggering automated workflows for a gamified learning platform.
 
